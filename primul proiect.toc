@@ -1,0 +1,20 @@
+\babel@toc {romanian}{}\relax 
+\contentsline {section}{\numberline {1}Introducere}{2}{section.1}%
+\contentsline {section}{\numberline {2}Fundamente Teoretice}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Formule Matematice}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Criptografia Simetrică}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Criptografia Asimetrică}{4}{subsubsection.2.1.2}%
+\contentsline {section}{\numberline {3}Studiu de Caz / Analiză}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Descrierea Atacului}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Analiza Tehnică}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Grafice și Tabele}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Concluzii Studiu de Caz}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Cod Sursă}{6}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Rezultate și Discuții}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Evaluarea Răspunsului la Atac}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Analiza Impactului Atacului}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Grafice și Tabele cu Analiza Datelor}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Lecții Învățate și Îmbunătățiri Propuse}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Rezumatul Răspunsurilor la Atac}{7}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Concluzii}{8}{section.5}%
+\contentsline {section}{Bibliografie}{9}{section.5}%
